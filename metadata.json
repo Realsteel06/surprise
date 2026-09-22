@@ -1,0 +1,6 @@
+{
+  "name": "Письмо для Сони",
+  "description": "Особенное признание, конверт и теплое приглашение на сегодняшний вечер для Сони.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
